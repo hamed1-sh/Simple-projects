@@ -1,2 +1,2 @@
-# Calculating Square root of number
-I implement this concept using binary search and it works with a appropriate approximation
+# Insertion sort
+Doing this sort with binary search in order to decrease complexity to nlogn
