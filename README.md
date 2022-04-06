@@ -1,2 +1,2 @@
-# Optimized algorithm for binomial coefficient
-Comparing to divide and conquer,this algorithm is more efficient
+# Calculating Square root of number
+I implement this program using binary search and it works with a appropriate approximation
